@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2021/04/29/hello-world/"/>
+      <url>2021/04/29/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Hello everyone! This is my first post. Feel free to come back here, as I will be updating more posts in the future. </p><h4> Contact </h4><a href="mailto:<%= theme.socialLink.email %>" class="tooltipped" target="_blank" data-tooltip="Contact me via email" data-position="top" data-delay="50">You can contact me via email. </a>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
